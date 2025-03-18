@@ -31,9 +31,9 @@ const HeroBannerOne = () => {
               <div className="tp-hero-title-box text-center p-relative">
                 <h1 className="tp-hero-title tp_fade_bottom">
                   <span className="p-relative">
-                    Creative
+                    Dos x Dos
                     <span className="tp-hero-subtitle d-none d-lg-block ">
-                      Hello <br /> People! We’re
+                      ¡Hola! <br /> Somos
                     </span>
                     <span className="tp-hero-shape-2 d-none d-md-block">
                       <Image
@@ -45,7 +45,7 @@ const HeroBannerOne = () => {
                     </span>
                   </span>
                   <br />
-                  Digital
+                  Grupo
                   <span className="tp-hero-title-img">
                     <Image
                       className="tp-zoom-img"
@@ -56,16 +56,16 @@ const HeroBannerOne = () => {
                       style={{ height: "auto" }}
                     />
                   </span>
-                  Studio
+                  Imagen
                 </h1>
               </div>
             </div>
             <div className="tp-hero-content tp_fade_bottom">
               <p>
                 <span></span>
-                Global digital design studio partnering with brands and
-                businesses that create exceptional experiences. We are design
-                and development agency based in Netherland.
+                Más de 35 años de experiencia en el sector del diseño de
+                interiores en espacios comerciales. Especialistas en el servicio
+                integral a firmas de lujo de la cosmética y perfumería.
               </p>
             </div>
           </div>
